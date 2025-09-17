@@ -1,0 +1,93 @@
+.ten{
+    padding-left: 10%;
+    padding-top: 3%;
+}
+.row6{
+    width: 100%;
+    display: flex;
+}
+.col19{
+    width: 50%;
+}
+.col20{
+    width: 50%;
+}
+.btn5{
+    background-color: black;
+    color: azure;
+
+}
+.head3{
+    font-weight: bold;
+}
+.eleven{
+    padding-left: 10%;
+}
+.row7{
+    width: 80%;
+    display: flex;
+}
+.col21{
+    width: 20%;
+}
+.col22{
+    width: 20%;
+}
+.col23{
+    width: 20%;
+}
+.col24{
+    width: 20%;
+}
+.row8{
+  width: 40%;
+  display: flex;
+}
+.col26{ 
+    padding-left: 25%;
+}
+.head4{
+    font-weight: bold;
+    font-size: 20px;
+}
+.twelve{
+    padding-left: 10%;
+}
+.row9{
+    width: 100%;
+    display: flex;
+}
+.col27{
+    width: 25%;
+}
+.col28{
+    width: 25%;
+}
+.col29{
+    width: 25%;
+}
+.col30{
+    width: 25%;
+    padding-left: 6%;
+    
+}
+.i8{
+    padding-top: 9%;
+    padding-left: 3%;
+}
+.row10{
+    width: 50%;
+    display: flex;
+}
+.col31{
+    width:20% ;
+}
+.col32{
+    width:30% ;
+    font-size: 13px;
+    color: rgb(177, 171, 171);
+
+}
+.i9{
+    padding-top: 7%;
+}
