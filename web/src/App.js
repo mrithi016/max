@@ -13,8 +13,6 @@ import Foot  from './footer/Foot';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 
-
-
 function App() {
   return (
     <div>
