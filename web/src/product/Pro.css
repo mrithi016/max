@@ -1,0 +1,51 @@
+.thirteen{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.row11{
+   width: 100%;
+   display: flex;
+}
+.col33{
+    width: 40%;
+    display: flex;
+}
+.col35{
+    width: 20%;
+}
+.col36{
+    width: 20%;
+}
+.col34{
+    width: 60%;
+}
+.row12{
+    display: flex;
+}
+.col40{
+   padding-left: 5%;
+  
+}
+.h6{
+    padding-top: 10%;
+}
+.row13{
+    display: flex;
+    width: 60%;
+    column-gap: 10%;
+    padding-top:13%;
+}
+.col37{
+    width:80%;
+    
+}
+.col38{
+    width: 80%;
+   
+}
+.col39{
+    width: 80%;
+}
+.i10{
+  height: 320px;
+}

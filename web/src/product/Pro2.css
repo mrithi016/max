@@ -1,0 +1,10 @@
+.sixteen{
+    padding-left:10%;
+    padding-top: 2%;
+    
+}
+.row16{
+    display: flex;
+    padding-top: 2%;
+    column-gap: 3%;
+}

@@ -1,0 +1,10 @@
+.seventeen{
+    padding-left:10%;
+    padding-top: 2%;
+    
+}
+.row17{
+    display: flex;
+    padding-top: 2%;
+    column-gap: 3%;
+}
